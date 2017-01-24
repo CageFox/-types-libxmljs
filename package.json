@@ -1,0 +1,17 @@
+{
+  "name": "@types/libxmljs",
+  "version": "0.0.1",
+  "description": "@types/libxmljs",
+  "engines": {
+    "node": ">=7.4.0"
+  },
+  "author": {
+    "name": "Eugeny",
+    "email": "ok@cage.ru"
+  },
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CageFox/_types-libxmljs"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "authors": "Ivan Pesochenko <https://github.com/wallride>, Cagefox <https://github.com/CageFox>",
+    "libraryDependencies": [],
+    "moduleDependencies": [],
+    "libraryMajorVersion": 1,
+    "libraryMinorVersion": 0,
+    "typeScriptVersion": "2.0",
+    "libraryName": "libxmljs",
+    "typingsPackageName": "libxmljs",
+    "projectName": "https://github.com/libxmljs/libxmljs",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "master",
+    "globals": [],
+    "declaredModules": [
+        "libxmljs"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false
+}
